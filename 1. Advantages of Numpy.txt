@@ -1,0 +1,4 @@
+1) It stores data in Contiguos Block of Memory.
+2) Array Oriented Computing.
+3) Can deal will Multi-Dimentional Matrices.
+4) NumPy Deal will only Homogeneous N-Dimensional Array.
